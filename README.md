@@ -1,1 +1,33 @@
 # CS532_Lab5
+
+$gcc lab5_v2.c 
+$./a.out projects/
+
+(out)
+[1] . (directory)
+[2] .. (directory)
+[3] .DS_Store (regular file)
+[3] fread.c (regular file)
+[3] fwrite.c (regular file)
+[3] project1 (directory)
+          [3] . (directory)
+          [4] .. (directory)
+          [5] project1.docx (regular file)
+          [5] README (regular file)
+[4] project2 (directory)
+          [4] . (directory)
+          [5] .. (directory)
+          [6] project2.docx (regular file)
+          [6] README (regular file)
+[5] project3 (directory)
+          [5] . (directory)
+          [6] .. (directory)
+          [7] project3.docx (regular file)
+          [7] README (regular file)
+[6] project4 (directory)
+          [6] . (directory)
+          [7] .. (directory)
+          [8] project4.docx (regular file)
+          [8] README (regular file)
+[7] read.c (regular file)
+[7] write.c (regular file)
